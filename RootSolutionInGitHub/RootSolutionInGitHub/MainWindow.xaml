@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="153,141,0,0" TextWrapping="Wrap" Text="Sub Solution 01 in GitHub" VerticalAlignment="Top" Height="94" Width="603" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="153,141,0,0" TextWrapping="Wrap" Text="Sub Solution 0101 in GitHub" VerticalAlignment="Top" Height="94" Width="603" FontSize="48"/>
     </Grid>
 </Window>
